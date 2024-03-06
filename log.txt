@@ -1,0 +1,74 @@
+{
+  "elevatorId": 1,
+  "sourceFloor": 0,
+  "destiniationFloor": 2,
+  "time": "21/12/2020 19:25:44"
+}
+{
+  "elevatorId": 2,
+  "sourceFloor": 2,
+  "destiniationFloor": 0,
+  "time": "21/12/2020 19:25:53"
+}
+null
+null
+{
+  "elevatorId": 1,
+  "sourceFloor": 0,
+  "destiniationFloor": 2,
+  "time": "21/12/2020 19:27:07"
+}
+{
+  "elevatorId": 2,
+  "sourceFloor": 2,
+  "destiniationFloor": 0,
+  "time": "21/12/2020 19:27:16"
+}
+{
+  "type": "EMERGENCY MODE INITIATED",
+  "time": "21/12/2020 19:27:17"
+}
+{
+  "type": "NORMAL MODE INITIATED",
+  "time": "21/12/2020 19:27:19"
+}
+{
+  "elevatorId": 1,
+  "sourceFloor": 0,
+  "destiniationFloor": 2,
+  "time": "21/12/2020 22:42:51"
+}
+{
+  "elevatorId": 2,
+  "sourceFloor": 2,
+  "destiniationFloor": 0,
+  "time": "21/12/2020 22:43:00"
+}
+{
+  "type": "EMERGENCY MODE INITIATED",
+  "time": "21/12/2020 22:43:01"
+}
+{
+  "type": "NORMAL MODE INITIATED",
+  "time": "21/12/2020 22:43:03"
+}
+{
+  "elevatorId": 1,
+  "sourceFloor": 0,
+  "destiniationFloor": 2,
+  "time": "22/12/2020 09:52:21"
+}
+{
+  "elevatorId": 2,
+  "sourceFloor": 2,
+  "destiniationFloor": 0,
+  "time": "22/12/2020 09:52:31"
+}
+{
+  "type": "EMERGENCY MODE INITIATED",
+  "time": "22/12/2020 09:52:32"
+}
+{
+  "type": "NORMAL MODE INITIATED",
+  "time": "22/12/2020 09:52:34"
+}
